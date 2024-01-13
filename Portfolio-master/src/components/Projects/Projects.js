@@ -72,10 +72,10 @@ function Projects() {
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              title="Tower Of Hanoi Game"
+              description="Implemented the Tower of Hanoi game with additional features such as undo, redo, styling, and win/loss functionalities.The game allows you to move discs between three towers, following the classic rules of Tower of Hanoi. With added undo and redo options, you can explore different strategies. 
+              Stylish design enhances the gaming experience, and win/loss tracking provides feedback on your performance."
+              demoLink="https://tower-of-hanoi-chi.vercel.app"  
             />
           </Col>
         </Row>
