@@ -76,6 +76,7 @@ function Projects() {
               description="Implemented the Tower of Hanoi game with additional features such as undo, redo, styling, and win/loss functionalities.The game allows you to move discs between three towers, following the classic rules of Tower of Hanoi. With added undo and redo options, you can explore different strategies. 
               Stylish design enhances the gaming experience, and win/loss tracking provides feedback on your performance."
               demoLink="https://tower-of-hanoi-chi.vercel.app"  
+              ghLink="https://github.com/TaqiRaza512/Tower-Of-Hanoi"
             />
           </Col>
         </Row>
