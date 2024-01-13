@@ -38,7 +38,6 @@ function Projects() {
               description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
             />
           </Col>
-
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={editor}
@@ -55,7 +54,8 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 97% by using Resnet34 pretrained model."
+              ghLink="https://github.com/TaqiRaza512/Plants-Disease-Detection"
             />
           </Col>
 
