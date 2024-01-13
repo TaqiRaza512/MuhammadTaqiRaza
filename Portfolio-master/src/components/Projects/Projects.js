@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
+import TOH from "../../Assets/Projects/TOH.png";
 import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
@@ -70,7 +70,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={emotion}
+              imgPath={TOH}
               isBlog={false}
               title="Tower Of Hanoi Game"
               description="Implemented the Tower of Hanoi game with additional features such as undo, redo, styling, and win/loss functionalities.The game allows you to move discs between three towers, following the classic rules of Tower of Hanoi. With added undo and redo options, you can explore different strategies. 
