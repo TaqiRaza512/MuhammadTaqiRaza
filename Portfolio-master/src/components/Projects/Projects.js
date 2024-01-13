@@ -53,7 +53,7 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Plant AI"
+              title="Plants Disease Detection"
               description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 97% by using Resnet34 pretrained model."
               ghLink="https://github.com/TaqiRaza512/Plants-Disease-Detection"
             />
