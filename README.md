@@ -13,7 +13,7 @@ Welcome to my professional portfolio on GitHub. This repository showcases my sof
 - HTML
 
 ## Viewing the Portfolio
-- Hosted at [portfolio-taqi-raza.vercel.app](https://portfolio-taqi-raza.vercel.app)
+- Hosted at [muhammad-taqi-raza.vercel.app](https://muhammad-taqi-raza.vercel.app) 
 - Browse the repository for projects and code.
 
 ## About Me
