@@ -115,7 +115,7 @@ function Home() {
       {/* Contact Me Section */}
       <Container className="contact-section mt-5">
         <h1 className="heading-name text_color">Contact Me</h1>
-        <p>If you're interested in working with me or have any questions, feel free to reach out!</p>
+        <p className="text_color">If you're interested in working with me or have any questions, feel free to reach out!</p>
 
         <SocialLinks />
 
