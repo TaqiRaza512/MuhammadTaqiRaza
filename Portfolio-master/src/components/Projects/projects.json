@@ -1,0 +1,40 @@
+[
+    {
+      "imgPath": "/Assets/Projects/chatify.png",
+      "title": "Poverty Detection using Satellite Imagery",
+      "description": "AI-based detection system using satellite imagery to analyze poverty distribution in Pakistan.",
+      "ghLink": "https://github.com/TaqiRaza512/Poverty-Detection"
+    },
+    {
+      "imgPath": "/Assets/Projects/blog.png",
+      "title": "Bits-0f-C0de",
+      "description": "Personal blog built with Next.js and Tailwind CSS, supporting markdown for easy content creation.",
+      "ghLink": "https://github.com/TaqiRaza512/Bits-0f-C0de"
+    },
+    {
+      "imgPath": "/Assets/Projects/codeEditor.png",
+      "title": "Editor.io",
+      "description": "Online code and markdown editor with support for HTML, CSS, and JS with live preview.",
+      "ghLink": "https://github.com/TaqiRaza512/Editor.io"
+    },
+    {
+      "imgPath": "/Assets/Projects/leaf.png",
+      "title": "Plants Disease Detection",
+      "description": "Deep learning model trained with CNN and Transfer Learning for detecting diseased plant leaves.",
+      "ghLink": "https://github.com/TaqiRaza512/Plants-Disease-Detection"
+    },
+    {
+      "imgPath": "/Assets/Projects/suicide.png",
+      "title": "AI For Social Good",
+      "description": "AI-driven application for mental health awareness and suicide prevention.",
+      "ghLink": "https://github.com/TaqiRaza512/AI-For-Social-Good"
+    },
+    {
+      "imgPath": "/Assets/Projects/TOH.png",
+      "title": "Tower Of Hanoi Game",
+      "description": "Interactive Tower of Hanoi game with undo/redo features and enhanced styling.",
+      "ghLink": "https://github.com/TaqiRaza512/Tower-Of-Hanoi",
+      "demoLink": "https://tower-of-hanoi-chi.vercel.app"
+    }
+  ]
+  

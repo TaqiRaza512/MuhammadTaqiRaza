@@ -38,7 +38,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-        <strong className="main-name"> Muhammad Taqi Raza</strong>
+        <strong className="text_color"> Muhammad Taqi Raza</strong>
         </Navbar.Brand>
 
         <Navbar.Toggle
@@ -53,24 +53,14 @@ function NavBar() {
           <span></span>
         </Navbar.Toggle>
 
-        <Navbar.Collapse id="responsive-navbar-nav">
-          <Nav className="ms-auto" defaultActiveKey="#home">
-            <Nav.Item>
+        <Navbar.Collapse id="responsive-navbar-nav" >
+          <Nav className="ms-auto" defaultActiveKey="#home" >
+            <Nav.Item >
               <Nav.Link as={Link} to="/" onClick={() => updateExpanded(false)}>
-                <AiOutlineHome style={{ marginBottom: "2px" }} /> Home
+                <AiOutlineHome style={{ marginBottom: "2px" }} className="text_color" /><span className="text_color"> Home</span> 
               </Nav.Link>
             </Nav.Item>
             
-            <Nav.Item>
-              <Nav.Link
-                as={Link}
-                to="/about"
-                onClick={() => updateExpanded(false)}
-              >
-                <AiOutlineUser style={{ marginBottom: "2px" }} /> About
-              </Nav.Link>
-            </Nav.Item>
-
             <Nav.Item>
               <Nav.Link
                 as={Link}
@@ -79,18 +69,19 @@ function NavBar() {
               >
                 <AiOutlineFundProjectionScreen
                   style={{ marginBottom: "2px" }}
+                  className="text_color"
                 />{" "}
-                Projects
+                 <span className="text_color"> Projects</span>
               </Nav.Link>
             </Nav.Item>
-
-            
 
             <Nav.Item className="fork-btn">
               <Button
                 href="https://github.com/TaqiRaza512"
                 target="_blank"
-                className="fork-btn-inner"
+                className="text_color fork-btn-inner"
+
+                
               >
 
                 <CgGitFork style={{ fontSize: "1.2em" }} />{" "}

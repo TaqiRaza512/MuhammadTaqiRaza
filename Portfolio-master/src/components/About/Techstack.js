@@ -26,9 +26,6 @@ function Techstack()
       <Col xs={4} md={2} className="tech-icons">
         <FiEye />
       </Col>
-
-      
-      
       
       <Col xs={4} md={2} className="tech-icons">
         <CgCPlusPlus />
